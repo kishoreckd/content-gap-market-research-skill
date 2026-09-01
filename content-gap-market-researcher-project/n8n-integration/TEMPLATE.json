@@ -1,0 +1,19 @@
+{
+  "platform_id": "REPLACE_ME",
+  "platform_name": "Replace Me",
+  "display_name": "Replace Me",
+  "description": "One-line descriptor, e.g. 'Composable commerce platform'",
+  "aliases": [],
+  "scope": "One-line description of what this platform config covers",
+  "sources": [
+    {
+      "order": 1,
+      "name": "Human-readable source name",
+      "category": "PRODUCT",
+      "source_label": "Original tag/label as supplied, if any — otherwise omit this field",
+      "authority": "OFFICIAL",
+      "priority": 1,
+      "url": "https://..."
+    }
+  ]
+}
